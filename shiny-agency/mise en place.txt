@@ -1,0 +1,2 @@
+1- mise en place de l'application : npx create-react-app shiny-agency
+2- 
